@@ -32,7 +32,7 @@ Although the technology behind ORBIS is confusing, the main interface is very ea
 
 ![A close-up of the left interface panel.](https://PRSengl350.github.io/PRS-ENGL-350/images/ORBIS_Interface.png)
 
-*A close-up of the left interface panel.
+*A close-up of the left interface panel.*
 
 Unfortunately, ORBIS’ interface does have a few design issues. On a tablet, the user cannot zoom in and out on the map with their fingers without moving the page itself around. Also, zooming can lag on both desktop and mobile devices. Additionally, some text at the bottom of the screen is cut off; this can be fixed by allowing the user to scroll the text or by shrinking the font size to make it fit.
 
