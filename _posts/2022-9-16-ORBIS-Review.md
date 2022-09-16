@@ -1,6 +1,6 @@
 # Digital Humanities Review: ORBIS
 
-### ***Project: [*ORBIS: The Stanford Geospatial Network Model of the Roman World*](https://orbis.stanford.edu/)***
+### ***Project: [_ORBIS: The Stanford Geospatial Network Model of the Roman World_](https://orbis.stanford.edu/)***
 
 ### ***Creators: Walter Scheidel (design, history, and data), Elijah Meeks (technology), and an extensive team of Stanford University graduate students***
 
