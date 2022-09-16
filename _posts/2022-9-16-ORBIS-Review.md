@@ -30,6 +30,10 @@ According to the “Geospatial” tab, ORBIS uses a software called D3.js to cre
 
 Although the technology behind ORBIS is confusing, the main interface is very easy to use. The left-side panel that controls the simulations makes it very clear which parameters are controlled by underlining the selected option in red, and drop-down menus are clearly indicated by boxes with arrows. Also, the map itself has interactive components that let users select cities and routes as well as scroll around the Roman world. An additional panel on the right of the screen contains options to toggle map displays on and off. These interactive panels make ORBIS easy to navigate and let the user refine data.
 
+![A close-up of the left interface panel.](https://PRSengl350.github.io/PRS-ENGL-350/images/ORBIS_Interface.png)
+
+*A close-up of the left interface panel.
+
 Unfortunately, ORBIS’ interface does have a few design issues. On a tablet, the user cannot zoom in and out on the map with their fingers without moving the page itself around. Also, zooming can lag on both desktop and mobile devices. Additionally, some text at the bottom of the screen is cut off; this can be fixed by allowing the user to scroll the text or by shrinking the font size to make it fit.
 
 For ORBIS learners, a user guide with YouTube tutorials is available under the “Using” tab of the startup screen. Additionally, an interactive tutorial is available by clicking “Tutorials” on the map screen. This tutorial is very helpful, as it explains the purpose of each option with clear language and allows the user to practice inputting information while the tutorial is giving guidance. Unfortunately, this tutorial option is easily overlooked, as it is in the top right corner of the main screen. It would be helpful to have the tutorial option open automatically upon loading so that the user does not have to search for it.
