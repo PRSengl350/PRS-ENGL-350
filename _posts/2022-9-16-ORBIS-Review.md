@@ -17,6 +17,7 @@
 *An example route calculated from ORBIS, using Pompeii to Carthago Nova.*
 
 #### **Data**
+
 The historical texts and studies used to create ORBIS are located under the “Building” tab on the startup screen and are organized by type of travel- sea, road, or river. Each category is then further divided into routes used, time, and expense. Data citations are provided in the text or are hyperlinked in footnotes, which clarify the claims made or direct the user to certain studies to see more. A list of all references used to create ORBIS is found in alphabetical order at the bottom of the page.
 
 While ORBIS shows data transparency by listing and explaining its sources, there are some ways to improve. For example, only a fraction of the works cited at the end of the document are paired with claims and reasoning in the text. If each claim was paired with its source, the user would be better able to evaluate the data themselves. Likewise, very few of the studies cited link to a website or electronic text, putting the onus on the reader to track down the information used. This could easily be fixed by making each reference link to an electronic version of that material.
