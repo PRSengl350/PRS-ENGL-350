@@ -2,7 +2,7 @@
 
 #### ***Project: [ORBIS: The Stanford Geospatial Network Model of the Roman World](https://orbis.stanford.edu/)***
 
-#### ***URL: [https://orbis.stanford.edu/](https://orbis.stanford.edu/)
+#### ***URL: [https://orbis.stanford.edu/](https://orbis.stanford.edu/)***
 
 #### ***Creators: Walter Scheidel (design, history, and data), Elijah Meeks (technology), and an extensive team of Stanford University graduate students***
 
