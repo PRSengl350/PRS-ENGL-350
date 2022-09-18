@@ -13,7 +13,7 @@
 
 #### **Overview**
 
-*ORBIS: The Stanford Geospatial Network Model of the Roman World* is a map simulating travel costs along common routes in the Roman Empire around 200 CE. Users select a start and end city and choose from eight methods of travel, from civilian on foot to rapid military march. The user chooses the month or season of the projected journey, allowing _ORBIS_ to consider climate conditions when calculating a route. The program then computes the route over land, river, or sea, based on what the user deems their highest priority: fastest, cheapest, or shortest journey. _ORBIS_ then lists that journey’s cost in Roman _denarii_ for transporting a kilogram of wheat (either by donkey or by wagon) or for passage in a carriage. As _ORBIS_ creates an average experience generated from simulations, it best used for calculating longer journeys to incorporate as many data points as possible. With its easy-to-use interface and clear maps, ORBIS aids both new and experienced users in a variety of disciplines in understanding travel conditions and expenses in the Roman Empire. 
+*ORBIS: The Stanford Geospatial Network Model of the Roman World* is a map simulating travel costs along common routes in the Roman Empire around 200 CE. Users select a start and end city and choose from eight methods of travel, from civilian on foot to rapid military march. The user chooses the month or season of the projected journey, allowing _ORBIS_ to consider climate conditions when calculating a route. The program then computes the route over land, river, or sea, based on whether the user wants the fastest, cheapest, or shortest journey. _ORBIS_ then lists that journey’s cost in Roman _denarii_ for transporting a kilogram of wheat (either by donkey or by wagon) or for passage in a carriage. As _ORBIS_ creates an average experience generated from simulations, it best used for calculating longer journeys to incorporate as many data points as possible. With its easy-to-use interface and clear maps, ORBIS aids both new and experienced users in a variety of disciplines in understanding travel conditions and expenses in the Roman Empire. 
 
 ![An example route from Pompeii to Carthago Nova calculated in _ORBIS_.](https://PRSengl350.github.io/PRS-ENGL-350/images/ORBIS_Example_Route.png)
 
@@ -21,7 +21,7 @@
 
 #### **Data**
 
-The historical texts and studies used to create _ORBIS_ are located under the “Building” tab on the startup screen and are organized by type of travel- sea, road, or river. Each category is then further divided into routes used, time, and expense. Data citations are provided in the text or are hyperlinked in footnotes, which clarify the claims made or direct the user to certain studies to see more. A list of all references used to create _ORBIS_ is found in alphabetical order at the bottom of the page.
+The historical texts and studies used to create _ORBIS_ are located under the “Building” tab on the startup screen and are organized by type of travel- sea, road, or river. Each category is then further divided into routes used, time, and expense. Data citations are provided in the text or are hyperlinked in footnotes that clarify the claims made or direct the user to certain studies to see more. A list of all references used to create _ORBIS_ is found in alphabetical order at the bottom of the page.
 
 ![A list of references used in ORBIS, arranged in alphabetical order. None of these names are hyperlinked.](https://PRSengl350.github.io/PRS-ENGL-350/images/ORBIS_Data_References.png)
 
