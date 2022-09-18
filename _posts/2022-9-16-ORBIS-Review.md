@@ -2,7 +2,7 @@
 
 #### ***Project: [ORBIS: The Stanford Geospatial Network Model of the Roman World](https://orbis.stanford.edu/)***
 
-#### ***Project Directors: Walter Scheidel (design, history, and data), Elijah Meeks (technology)
+#### ***Project Directors: Walter Scheidel (design, history, and data), Elijah Meeks (technology)***
 
 #### ***Project URL: [https://orbis.stanford.edu/](https://orbis.stanford.edu/)***
 
