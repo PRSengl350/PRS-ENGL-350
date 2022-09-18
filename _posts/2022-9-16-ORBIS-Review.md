@@ -35,7 +35,7 @@ According to the “Geospatial” tab, ORBIS uses a software called D3.js to cre
 
 #### **Design and Usability**
 
-Although the technology behind _ORBIS_ is confusing, the main interface is very easy to use. The left-side panel that controls the  simulations makes it very clear which parameters are altered: the selected options are underlined in red, and drop-down menus are indicated by boxes with arrows. The *ORBIS* map itself has interactive components that let users select cities and routes as well as scroll around the Roman world. An additional panel on the right of the screen contains options to toggle map displays on and off. These interactive panels make _ORBIS_ easy to navigate and let the user refine data.
+Although the technology behind _ORBIS_ is confusing, the main interface is very easy to use. The left-side panel that controls the  simulations makes it very clear which parameters are altered: selected options are underlined in red, and drop-down menus are indicated by boxes with arrows. The *ORBIS* map itself has interactive components that let users select cities and routes as well as scroll around the Roman world. An additional panel on the right of the screen contains options to toggle map displays on and off. These interactive panels make _ORBIS_ easy to navigate and let the user refine data.
 
 ![A close-up of the left interface panel.](https://PRSengl350.github.io/PRS-ENGL-350/images/ORBIS_Interface.png)
 
@@ -50,7 +50,7 @@ For *ORBIS* learners, a guide with YouTube tutorials is available under the “U
 *The* ORBIS *map with a tutorial box. Note the text cut off on the bottom left of the screen.*
 
 Although it has a well-executed user interface, *ORBIS* does have some issues in its “About” information. Many of the hyperlinks provided lead to sites that no longer exist. Of the active hyperlinks, most do not open in a separate tab. If the user hits the back button, the site resets to the “Home” tab and the user must navigate back to where they were previously at. This can be solved by causing all links to open in a separate tab.
-The broken hyperlinks may be due to a lack of project sustainability: as there is no information or dates provided after 2013, *ORBIS* is likely not active and would need to receive funding to update and address these broken links. 
+The broken hyperlinks may be due to a lack of project sustainability: as  there is no information provided after 2013, ORBIS is likely not active and would need to receive funding to update and address these issues.
 
 #### **Conclusion**
 
