@@ -25,7 +25,7 @@ The historical texts and studies used to create _ORBIS_ are located under the â€
 
 ![A list of references used in ORBIS, arranged in alphabetical order. None of these names are hyperlinked.](https://PRSengl350.github.io/PRS-ENGL-350/images/ORBIS_Data_References.png)
 
-*Some of the references used in creating* ORBIS. *None of these names include hyperlinks to that source.*
+*Some of the references used in creating* ORBIS. *None of these names include hyperlinks to the listed source.*
 
 While _ORBIS_ shows data transparency by listing and explaining its sources, there are some ways to improve. For example, only a fraction of the works cited at the end of the document are paired with claims and reasoning in the text. If each claim was paired with its source, the user would be better able to evaluate the data themselves. Likewise, very few of the studies cited link to a website or electronic text, putting the onus on the reader to track down the information used. This could be fixed by making each reference link to an electronic version of that material.
 
