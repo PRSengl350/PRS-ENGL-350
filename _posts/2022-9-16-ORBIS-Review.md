@@ -31,7 +31,7 @@ While _ORBIS_ shows data transparency by listing and explaining its sources, the
 
 #### **Technology**
 
-According to the “Geospatial” tab, ORBIS uses a software called D3.js to create the interactive map. Various underlying algorithms help run simulations about the route based on the user’s parameters. While _ORBIS’_ creators did provide a lengthy explanation of the project’s technology, it is challenging for users unfamiliar with mapmaking software to understand. A future version of _ORBIS_ could clarify the technical language to it more accessible.
+According to the “Geospatial” tab, ORBIS uses a GIS software called D3.js to create the interactive map. Various underlying algorithms help run simulations about the route based on the user’s parameters. While _ORBIS’_ creators did provide a lengthy explanation of the project’s technology, it is challenging for users unfamiliar with mapmaking software to understand. A future version of _ORBIS_ could clarify the technical language to it more accessible.
 
 #### **Design and Usability**
 
