@@ -22,7 +22,7 @@ According to the “About the Project” page, _Furnace and Fugue’s_ data come
 
 ![_Furnace and Fugue’s_ GitHub Page.](https://PRSengl350.github.io/PRS-ENGL-350/images/FF_GitHub_2.png)
 
-Furnace and Fugue *'s GitHub page.*
+Furnace and Fugue's _GitHub page._
 
 #### **Design and Usabilty**
 
