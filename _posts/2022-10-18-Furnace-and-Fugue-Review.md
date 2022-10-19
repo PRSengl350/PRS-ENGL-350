@@ -50,11 +50,11 @@ In addition, there is no way to rewind or jump forward in the music; once starte
 
 *The musical animation in progress, as seen via the red notes.*
 
-_Furnace and Fugue_ also offers a piano roll view of the score; this can be confusing to follow, however, as one of the voices is colored the same red as used to highlight the notes currently playing. Sometimes, the piano roll shows gaps in voices that are currently playing, creating the illusion that that voice is resting when it is really being covered up by another color. Changing the color used to animate and coloring a note with multiple shades to show overlap would make this view easier to navigate.
+_Furnace and Fugue_ also offers a piano roll view of the score; this can be confusing to follow, however, as one of the voices is colored the same red as used to highlight the notes currently playing. Sometimes, the piano roll shows gaps in voices that are currently playing, creating the illusion that that voice is resting. Changing the color used to animate and coloring a note with multiple shades to show overlap would make this view easier to navigate.
 
-![The piano roll view. This one has the lower green voice appear to drop out, even though it is still singing, and the animation is the same color red as the middle vocie, making it hard to follow.](https://PRSengl350.github.io/PRS-ENGL-350/images/FF_Piano.png)
+![The piano roll view for Emblem VII. This one has the lower green voice appear to drop out, even though it is still singing, and the animation is the same color red as the middle vocie, making it hard to follow.](https://PRSengl350.github.io/PRS-ENGL-350/images/FF_Piano.png)
 
-*The piano roll view. The lower voice is still playing, although it appears to drop out. The animation line is hard to see, as it matches the red of the middle voice.*
+*The piano roll view for Emblem VII. The lower voice is still playing, although it appears to drop out. The animation line is hard to see, as it matches the red of the middle voice.*
 
 #### **Conclusion**
 
