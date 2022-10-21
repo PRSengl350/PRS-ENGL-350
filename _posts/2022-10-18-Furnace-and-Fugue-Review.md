@@ -56,9 +56,11 @@ _Furnace and Fugue_ also offers a piano roll view of the score; this can be conf
 
 *The piano roll view for Emblem VII. The lower voice is still playing, although it appears to drop out. The animation line is hard to see, as it matches the red of the middle voice.*
 
+Despite these design issues, _Furnace and Fugue_ is a beautiful and easy-to-use multimedia digital edition. Although it takes a slight learning curve, the site's clear labels and animations make the material simple to interact with and use in scholarship.
+
 #### **Conclusion**
 
-Despite the aforementioned design issues, _Furnace and Fugue_ is a beautiful and easy-to-use multimedia digital edition. It relates to a variety of disciplines: musicians can study the historical style and word-painting of the fugues, artists can examine the images and their symbolism, and historians can examine the alchemical and scientific beliefs of that time. 
+It relates to a variety of disciplines: musicians can study the historical style and word-painting of the fugues, artists can examine the images and their symbolism, and historians can examine the alchemical and scientific beliefs of that time. 
 
 I find this project to be very inspirational for my own. I am creating a scholarly digital edition of the song cycle _Winterreise_, and the layout and animation of the music is like what I want to do. I had not heard of the MEI coding language before viewing this site, but I now know this is what I want to use. My project differs from _Furnace and Fugue_ in that theirs focuses on music within a text, whereas mine focuses on how the music enhances the text. I hope to accomplish the same ease of usability in as _Furnace and Fugue_.
 
