@@ -1,10 +1,10 @@
 # Digital Humanities Review: Furnace and Fugue
 
-#### ***Project: [Furnace and Fugue: A Digital Edition of Michael Maier's*** **Atalanta fugiens** ***(1618) with Scholarly Commentary](https://furnaceandfugue.org/)***
+#### **Project: [Furnace and Fugue: A Digital Edition of Michael Maier's _Atalanta fugiens_ (1618) with Scholarly Commentary](https://furnaceandfugue.org/)**
 
-#### ***Project Directors: Tara Nummedal and Donna Bilak (editors)***
+#### **Project Directors: Tara Nummedal and Donna Bilak (editors)**
 
-#### ***Project URL: [https://furnaceandfugue.org/](https://furnaceandfugue.org/)***
+#### **Project URL: [https://furnaceandfugue.org/](https://furnaceandfugue.org/)**
 
 ![The home page of _Furnace and Fugue_.](https://PRSengl350.github.io/PRS-ENGL-350/images/FF_Home.png)
 
