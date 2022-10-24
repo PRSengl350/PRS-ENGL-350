@@ -26,7 +26,7 @@ According to the “About the Project” page, _Furnace and Fugue’s_ data come
 
 Furnace and Fugue's _GitHub page._
 
-#### **Design and Usabilty**
+#### **Design and Usability**
 
 _Furnace and Fugue’s_ default layout shows the original text as a high-resolution image alongside the digitized translation. The user can switch from this layout to viewing either the original or the digital version separately. The digital text is available in five languages, with the default being English with modernized spellings. The fugues in the digital version are laid out in the original Latin using modern music notation practices. The reader can play recordings of the music with the option to toggle each voice on or off; there is an option to view the music in piano roll format as well.
 
