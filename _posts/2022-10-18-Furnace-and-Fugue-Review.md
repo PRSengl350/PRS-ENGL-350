@@ -66,5 +66,5 @@ _Furnace and Fugue's_ unique interactive book relates to a variety of discipline
 
 I find this project to be very inspirational for my own. I am creating a scholarly digital edition of the song cycle _Winterreise_, and the layout and animation of *Furnace and Fugue's* music is similar to what I want to do. I had not heard of the MEI coding language before viewing this site, but I now know this is what I want to use. My project differs from _Furnace and Fugue_ in that theirs focuses on music accompanying a text, whereas mine focuses on how the music enhances a poetry text via word-painting. I hope to accomplish the same ease of usability in as _Furnace and Fugue_.
 
-Overall, _Furnace and Fugue_ advances scholarship by turning the multimedia *Alalanta fugiens* into a fully realized project, with the reader able to hear the music and read the text in translation in a manner that is truly accessible.
+Overall, _Furnace and Fugue_ advances scholarship by turning the multimedia *Atalanta fugiens* into a fully realized project, with the reader able to hear the music and read the text in translation in a manner that is truly accessible.
 
