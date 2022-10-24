@@ -36,7 +36,7 @@ For the most part, _Furnace and Fugue_ is easy to use. The options to change vie
 
 *The current way to switch between emblems, which is done by clicking a drop-down menu towards the top of the page.*
 
-In addition, changing to a different emblem currently resets the site back to the default view and language; a possible solution for this would be to create a way for the site to remember what views the user selected when changing between documents, perhaps through using browser cookies to store preferences. 
+In addition, changing to a different emblem currently resets the site back to the default view and language; a possible solution for this would be to create a way for the site to remember what views the user selected when changing between emblems, perhaps through using browser cookies to store preferences. 
 
 Necessary background information on how to use *Furnace and Fugue* is hard to find on the site. While the “About the Project” page explains both the text and the code, it is not obviously displayed. On the home page of the project, the link to this page is underneath a block quote, not underlined or set apart from the normal text. If the reader looks for the “About” page in the “Contents” tab, then they need to scroll almost all the way to the bottom. There is a link to the page in the website’s footer, but this again requires scrolling down to the bottom. This project would benefit by making this page easier to find; it could be part of the site’s header, higher up in the “Contents” tab, or given a spot next to the other options on the home screen. The “About the Project” page gives essential explanations regarding the languages and editing practices used in this site, and reading it greatly improves the user’s knowledge and experience. It should be one of the first links that the viewer sees, even before the digital edition itself.
 
@@ -66,5 +66,5 @@ _Furnace and Fugue's_ unique interactive book relates to a variety of discipline
 
 I find this project to be very inspirational for my own. I am creating a scholarly digital edition of the song cycle _Winterreise_, and the layout and animation of *Furnace and Fugue's* music is similar to what I want to do. I had not heard of the MEI coding language before viewing this site, but I now know this is what I want to use. My project differs from _Furnace and Fugue_ in that theirs focuses on music accompanying a text, whereas mine focuses on how the music enhances a poetry text via word-painting. I hope to accomplish the same ease of usability in as _Furnace and Fugue_.
 
-Overall, _Furnace and Fugue_ advances scholarship by turning the multimedia Alalanta fugiens into a fully realized project, with the reader able to hear the music and read the text in translation in a manner that is truly accessible.
+Overall, _Furnace and Fugue_ advances scholarship by turning the multimedia *Alalanta fugiens* into a fully realized project, with the reader able to hear the music and read the text in translation in a manner that is truly accessible.
 
