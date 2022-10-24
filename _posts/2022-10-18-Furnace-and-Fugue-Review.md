@@ -32,9 +32,9 @@ _Furnace and Fugue’s_ default layout shows the original text as a high-resolut
 
 For the most part, _Furnace and Fugue_ is easy to use. The options to change views and languages, for example, are labeled in plain language. However, there is a learning curve to understanding site navigation. It is unclear at first how to move between different emblems. The user cannot switch between pages as they would in a normal book unless they are only viewing the original; otherwise, they must select the “Emblem” tab and click on the section that they wish to access. These problems can be very frustrating, as it takes a few minutes to figure out how to get around the site. A way to fix this would be implementing a “next emblem” or “previous emblem” link at the bottom of each page so that the way forward is more obvious and intuitive. 
 
-![The current way to switch between emblems.](https://PRSengl350.github.io/PRS-ENGL-350/images/FF_Scrolling.png)
+![The current way to switch between emblems, which is by clicking through a drop-down menu at the top of the page.](https://PRSengl350.github.io/PRS-ENGL-350/images/FF_Scrolling.png)
 
-*The current way to switch between emblems.*
+*The current way to switch between emblems, which is done by clicking a drop-down menu towards the top of the page.*
 
 In addition, changing to a different emblem currently resets the site back to the default view and language; a possible solution for this would be to create a way for the site to remember what views the user selected when changing between documents, perhaps through using browser cookies to store preferences. 
 
